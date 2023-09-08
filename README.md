@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-repo pruea modulo 2 prepc
+Prueba de como crear repo en nube y replicarlo en la terminal
