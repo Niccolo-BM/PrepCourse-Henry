@@ -1,1 +1,1 @@
-Prueba de como crear repo en nube y replicarlo en la terminal
+Prueba de como crear un repo en nube y replicarlo en la terminal local del PC
